@@ -1,0 +1,8 @@
+sonar.projectKey=key
+sonar.projectName=PythonProject
+sonar.projectVersion=1.0
+sonar.login=admin
+sonar.password=admin
+sonar.language=python
+sonar.sources=/var/lib/jenkins/workspace/$JOB_NAME
+sonar.sourceEncoding=UTF-8
